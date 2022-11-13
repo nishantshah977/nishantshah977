@@ -1,7 +1,12 @@
 ### Hi there 👋
+<div align="center">
+<img src="https://nishantshah977.github.io/img/profile-pic.png" height="100" width="100" alt="Nishant Shah">
+<h3>Nishant Shah</h3>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fgeekhelper977">
+</div>
+<br><br>
 
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on some web development projects 

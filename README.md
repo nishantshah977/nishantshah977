@@ -26,4 +26,4 @@
 [![@nis_hantshah's Holopin board](https://holopin.me/nis_hantshah)](https://holopin.io/@nis_hantshah)
  
 ![Nishant GitHub Status](https://github-readme-stats.vercel.app/api?username=nishantshah977&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantshah977&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantshah977&layout=compact&theme=dark)

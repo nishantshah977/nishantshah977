@@ -25,6 +25,10 @@ I'm self-Taught<br><br>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap">
 <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php">
+<img src="https://img.shields.io/badge/-C%2B%2B-blue">
+<br>
+<center><strong>& more</strong></center>
+<br>
 <h3 align="center">Am I not hancy ? 😁 </h3>
 <div align="center">
 के म hancy हैन र

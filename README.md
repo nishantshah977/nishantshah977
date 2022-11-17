@@ -9,14 +9,22 @@ I'm self-Taught<br><br>
 
 
 
-- 🌱 I’m currently learning Web Development 
-- 👯 I’m looking to collaborate on some web development projects 
+- 🌱 I’m currently learning ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- 👯 I’m looking to collaborate on some open source projects.
 - 🤔 I’m looking for help with anything I don't know
-- 💬 Ask me about Web Development and Mathematics 
-- 📫 How to reach me: Facebook, Instagram, Twitter, Gmail
+- 💬 Ask me about Internship 
+- 📫 How to reach me: [ns362039@gmail.com](mailto:ns362039@gmail.com)
 - 😄 Pronouns: nis_hantshah
-- ⚡ Fun fact: I don't know designing 🤧
+- ⚡ Fun fact: I don't know designing 
 
+<h3 align="center">Technologies I'm familiar with</h3>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+<img src="https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap">
+<img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php">
 <h3 align="center">Am I not hancy ? 😁 </h3>
 <div align="center">
 के म hancy हैन र

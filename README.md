@@ -29,6 +29,10 @@ I'm self-Taught<br><br>
 <br>
 <center><strong>& more</strong></center>
 <br>
+<div align="center">
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X8GMFMR)
+</div>
+<br>
 <h3 align="center">Am I not hancy ? 😁 </h3>
 <div align="center">
 के म hancy हैन र

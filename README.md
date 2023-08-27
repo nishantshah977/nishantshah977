@@ -19,7 +19,9 @@ When you learn to code, it helps you think better and gives you the chance to di
 <a href="https://www.github.com/nishantshah977" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nishantshah977?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/nis_hantshah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nis_hantshah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a> 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Skills
 

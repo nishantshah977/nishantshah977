@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **AI and Web Development**
 
-- 🌱 I’m currently learning **frontend frameworks and exploring new stacks**
+- 🌱 I’m currently learning **Next.js and building AI applications**
 
 - 👯 I’m looking to collaborate with **freshers, open-source contributors and companies**
 
 - 🤝 I’m looking for help with **my career**
 
-- 💬 Ask me about **computers and code**
+- 💬 Ask me about **Javascript, PHP and Python**
 
 - 📫 How to reach me **ns362039@gmail.com**
 

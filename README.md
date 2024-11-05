@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.weserv.nl/?url=i.ibb.co/KyjJFtC/DSC03809.jpg&mask=circle&fit=cover" height="200px" width="300px"/>
+<img src="https://images.weserv.nl/?url=i.ibb.co/hm0KbDd/img-1-1730791568762.webp&w=700&h=700&mask=circle&fit=cover&mtrim" height="200px" width="300px"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nishant Shah</h1>
 <h3 align="center">A passionate developer from Nepal</h3>

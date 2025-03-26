@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantshah977" alt="nishantshah977" /></a> </p>
 
-- 🔭 I’m currently working on **AI and Web Development**
-
-- 🌱 I’m currently learning **Next.js and building AI applications**
-
 - 👯 I’m looking to collaborate with **freshers, open-source contributors and companies**
 
 - 🤝 I’m looking for help with **my career**

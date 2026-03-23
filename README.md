@@ -1,7 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantshah977&label=Profile%20views&color=0e75b6&style=flat" alt="nishantshah977" /> </p>
-<p align="center">
-<img src="https://images.weserv.nl/?url=shahnishant.com.np/nishant.jpg?v=4&h=300&w=300&fit=cover&mask=circle" height="300px" width="200px"/>
-</p>
 <h1 align="center">Hi 👋, I'm Nishant Shah</h1>
 <h4 align="center">Student, developer, and open-source enthusiast</h4>
 <h6 align="center">I work with MERN, Next.js, PHP, and more, and can switch stacks according to project requirements.</h6>
